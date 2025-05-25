@@ -2,6 +2,7 @@
 import About from './About';
 
 import Category from './Category';
+import Error404 from './Error404';
 import Footer from './Footer';
 
 import Header from './Header';
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Category />
       <Footer/>
+      <Error404 />
            </div>
   );
 }
