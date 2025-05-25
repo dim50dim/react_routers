@@ -1,6 +1,6 @@
 
 import About from './About';
-import './App.css';
+
 import Category from './Category';
 import Footer from './Footer';
 
