@@ -1,7 +1,8 @@
 
 import About from './About';
 import './App.css';
-import CategoryDescription from './CategoryDescription';
+import Category from './Category';
+
 import Header from './Header';
 import Home from './Home';
 
@@ -11,8 +12,8 @@ function App() {
       <Header />
       <Home />
       <About />
-      <CategoryDescription />
-     </div>
+      <Category />
+           </div>
   );
 }
 
